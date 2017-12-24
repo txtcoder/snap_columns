@@ -6,6 +6,7 @@ module SnapColumns
   end
 
   def self.get(words)
+    words = words.sort
     rows = (words.size / 3.0).ceil
 
     column_0 = MaxSizeArray.new(words.shift(rows))
