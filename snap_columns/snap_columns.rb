@@ -1,7 +1,7 @@
 module SnapColumns
   class MaxSizeArray < Array
     def max_size
-      self.map {|_| _.size}.max.to_i
+      self.map(&:size).max.to_i
     end
   end
 
