@@ -63,7 +63,7 @@ bundle exec rspec
 Finished in 0.00604 seconds (files took 0.12993 seconds to load)
 9 examples, 0 failures
 
-Coverage report generated for RSpec to /Users/stefanonada/Documents/Personal/Progetti/snap_columns/coverage. 12 / 12 LOC (100.0%) covered.
+Coverage report generated for RSpec to /your/projects/folder/snap_columns/coverage. 12 / 12 LOC (100.0%) covered.
 ```
 
 As you can see, a report is generated inside the coverage folder: open `coverage/index.html` file to see how the
