@@ -1,6 +1,6 @@
 # Snap columns
 
-[![Build Status](https://travis-ci.org/snada/snada.svg?branch=master)](https://travis-ci.org/snada/snada)
+[![Build Status](https://travis-ci.org/snada/snada.svg?branch=master)](https://travis-ci.org/snada/snada) [![Maintainability](https://api.codeclimate.com/v1/badges/675f28abedc3a711d201/maintainability)](https://codeclimate.com/github/snada/snap_columns/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/675f28abedc3a711d201/test_coverage)](https://codeclimate.com/github/snada/snap_columns/test_coverage)
 
 This is a small coding challenge to divide a set of given words received over STDIN in 3 columns as evenly as possible.
 
