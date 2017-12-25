@@ -1,5 +1,7 @@
 # Snap columns
 
+[![Build Status](https://travis-ci.org/snada/snada.svg?branch=master)](https://travis-ci.org/snada/snada)
+
 This is a small coding challenge to divide a set of given words received over STDIN in 3 columns as evenly as possible.
 
 ## Running
